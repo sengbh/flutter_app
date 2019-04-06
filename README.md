@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+##NOTE to Self
+* On terminal run: <br/>
+`'/home/bunrith/Android/flutter/bin/flutter'  run`
+* Or go to source ~/.profile then run:
+`flutter run <option>`
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
