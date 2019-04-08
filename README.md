@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-##NOTE to Self
+## NOTE to Self
 * On terminal run: <br/>
 `'/home/bunrith/Android/flutter/bin/flutter'  run`
 * Or go to source ~/.profile then run:
